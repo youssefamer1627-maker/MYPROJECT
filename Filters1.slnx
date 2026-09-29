@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Filters1/Filters1.vcxproj" Id="0436fb70-b015-41fe-8fcf-bb038dc20fd2" />
+</Solution>
